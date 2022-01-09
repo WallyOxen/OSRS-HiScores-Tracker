@@ -1,0 +1,1028 @@
+{
+  "OVERALL": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "584245",
+      "level": "1655",
+      "xp": "24377189",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "867985",
+      "level": "1445",
+      "xp": "11884645",
+      "xpBehind": 12492544
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1064278",
+      "level": "1306",
+      "xp": "7967122",
+      "xpBehind": 16410067
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1310399",
+      "level": "1139",
+      "xp": "6239015",
+      "xpBehind": 18138174
+    },
+    {
+      "player": "d5-wally",
+      "rank": "1786461",
+      "level": "867",
+      "xp": "2063573",
+      "xpBehind": 22313616
+    }
+  ],
+  "ATTACK": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "1024541",
+      "level": "74",
+      "xp": "1210344",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "1425739",
+      "level": "65",
+      "xp": "487935",
+      "xpBehind": 722409
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1787004",
+      "level": "60",
+      "xp": "274830",
+      "xpBehind": 935514
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "-1",
+      "level": "51",
+      "xp": "113894",
+      "xpBehind": 1096450
+    },
+    {
+      "player": "d5-wally",
+      "rank": "-1",
+      "level": "46",
+      "xp": "69047",
+      "xpBehind": 1141297
+    }
+  ],
+  "DEFENCE": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "1122157",
+      "level": "70",
+      "xp": "743293",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "1311399",
+      "level": "65",
+      "xp": "449531",
+      "xpBehind": 293762
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1769604",
+      "level": "51",
+      "xp": "118423",
+      "xpBehind": 624870
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1786063",
+      "level": "51",
+      "xp": "112596",
+      "xpBehind": 630697
+    },
+    {
+      "player": "d5-wally",
+      "rank": "-1",
+      "level": "34",
+      "xp": "21043",
+      "xpBehind": 722250
+    }
+  ],
+  "STRENGTH": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "1238966",
+      "level": "75",
+      "xp": "1211384",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "1627245",
+      "level": "67",
+      "xp": "599448",
+      "xpBehind": 611936
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "-1",
+      "level": "51",
+      "xp": "117233",
+      "xpBehind": 1094151
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "-1",
+      "level": "49",
+      "xp": "98349",
+      "xpBehind": 1113035
+    },
+    {
+      "player": "d5-wally",
+      "rank": "-1",
+      "level": "37",
+      "xp": "27858",
+      "xpBehind": 1183526
+    }
+  ],
+  "CONSTITUTION": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "1181240",
+      "level": "76",
+      "xp": "1473302",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "1637422",
+      "level": "67",
+      "xp": "598233",
+      "xpBehind": 875069
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "-1",
+      "level": "59",
+      "xp": "263059",
+      "xpBehind": 1210243
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "-1",
+      "level": "51",
+      "xp": "112044",
+      "xpBehind": 1361258
+    },
+    {
+      "player": "d5-wally",
+      "rank": "-1",
+      "level": "38",
+      "xp": "30463",
+      "xpBehind": 1442839
+    }
+  ],
+  "RANGED": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "1442904",
+      "level": "70",
+      "xp": "756481",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "1775187",
+      "level": "61",
+      "xp": "304339",
+      "xpBehind": 452142
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1776973",
+      "level": "61",
+      "xp": "303698",
+      "xpBehind": 452783
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "-1",
+      "level": "42",
+      "xp": "47101",
+      "xpBehind": 709380
+    },
+    {
+      "player": "d5-wally",
+      "rank": "-1",
+      "level": "13",
+      "xp": "2012",
+      "xpBehind": 754469
+    }
+  ],
+  "PRAYER": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "857783",
+      "level": "67",
+      "xp": "575512",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1176664",
+      "level": "54",
+      "xp": "151535",
+      "xpBehind": 423977
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "1233684",
+      "level": "52",
+      "xp": "130093",
+      "xpBehind": 445419
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1488373",
+      "level": "48",
+      "xp": "84898",
+      "xpBehind": 490614
+    },
+    {
+      "player": "d5-wally",
+      "rank": "1797815",
+      "level": "44",
+      "xp": "58009",
+      "xpBehind": 517503
+    }
+  ],
+  "MAGIC": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "908819",
+      "level": "80",
+      "xp": "1991202",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "1125417",
+      "level": "75",
+      "xp": "1238668",
+      "xpBehind": 752534
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1591358",
+      "level": "64",
+      "xp": "438349",
+      "xpBehind": 1552853
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "-1",
+      "level": "51",
+      "xp": "116640",
+      "xpBehind": 1874562
+    },
+    {
+      "player": "d5-wally",
+      "rank": "-1",
+      "level": "47",
+      "xp": "76515",
+      "xpBehind": 1914687
+    }
+  ],
+  "COOKING": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "809805",
+      "level": "71",
+      "xp": "854266",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "1032257",
+      "level": "70",
+      "xp": "755243",
+      "xpBehind": 99023
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1496217",
+      "level": "59",
+      "xp": "256626",
+      "xpBehind": 597640
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1616312",
+      "level": "55",
+      "xp": "181052",
+      "xpBehind": 673214
+    },
+    {
+      "player": "d5-wally",
+      "rank": "-1",
+      "level": "27",
+      "xp": "10033",
+      "xpBehind": 844233
+    }
+  ],
+  "WOODCUTTING": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "646789",
+      "level": "73",
+      "xp": "1063627",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "1308741",
+      "level": "62",
+      "xp": "362747",
+      "xpBehind": 700880
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1410459",
+      "level": "61",
+      "xp": "319584",
+      "xpBehind": 744043
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1667776",
+      "level": "58",
+      "xp": "229403",
+      "xpBehind": 834224
+    },
+    {
+      "player": "d5-wally",
+      "rank": "-1",
+      "level": "50",
+      "xp": "102040",
+      "xpBehind": 961587
+    }
+  ],
+  "FLETCHING": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "883832",
+      "level": "68",
+      "xp": "645395",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1224922",
+      "level": "58",
+      "xp": "225532",
+      "xpBehind": 419863
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1236060",
+      "level": "57",
+      "xp": "214730",
+      "xpBehind": 430665
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "1321021",
+      "level": "54",
+      "xp": "159986",
+      "xpBehind": 485409
+    },
+    {
+      "player": "d5-wally",
+      "rank": "1984770",
+      "level": "31",
+      "xp": "15097",
+      "xpBehind": 630298
+    }
+  ],
+  "FISHING": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "724837",
+      "level": "71",
+      "xp": "842739",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "749771",
+      "level": "70",
+      "xp": "811490",
+      "xpBehind": 31249
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1243914",
+      "level": "62",
+      "xp": "333856",
+      "xpBehind": 508883
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1375153",
+      "level": "60",
+      "xp": "273878",
+      "xpBehind": 568861
+    },
+    {
+      "player": "d5-wally",
+      "rank": "-1",
+      "level": "38",
+      "xp": "30727",
+      "xpBehind": 812012
+    }
+  ],
+  "FIREMAKING": [
+    {
+      "player": "d5-flaccid",
+      "rank": "431573",
+      "level": "85",
+      "xp": "3271726",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "450554",
+      "level": "84",
+      "xp": "3061572",
+      "xpBehind": 210154
+    },
+    {
+      "player": "d5-drbrisket",
+      "rank": "473157",
+      "level": "83",
+      "xp": "2707910",
+      "xpBehind": 563816
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "672224",
+      "level": "75",
+      "xp": "1303092",
+      "xpBehind": 1968634
+    },
+    {
+      "player": "d5-wally",
+      "rank": "1028669",
+      "level": "65",
+      "xp": "473003",
+      "xpBehind": 2798723
+    }
+  ],
+  "CRAFTING": [
+    {
+      "player": "d5-xandielm",
+      "rank": "342165",
+      "level": "78",
+      "xp": "1712077",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-drbrisket",
+      "rank": "700896",
+      "level": "70",
+      "xp": "751612",
+      "xpBehind": 960465
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1599050",
+      "level": "50",
+      "xp": "110449",
+      "xpBehind": 1601628
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "-1",
+      "level": "40",
+      "xp": "40092",
+      "xpBehind": 1671985
+    },
+    {
+      "player": "d5-wally",
+      "rank": "-1",
+      "level": "40",
+      "xp": "39163",
+      "xpBehind": 1672914
+    }
+  ],
+  "SMITHING": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "763311",
+      "level": "66",
+      "xp": "501697",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "1087323",
+      "level": "55",
+      "xp": "168049",
+      "xpBehind": 333648
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1486616",
+      "level": "47",
+      "xp": "80142",
+      "xpBehind": 421555
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1986170",
+      "level": "38",
+      "xp": "33078",
+      "xpBehind": 468619
+    },
+    {
+      "player": "d5-wally",
+      "rank": "1987988",
+      "level": "38",
+      "xp": "32944",
+      "xpBehind": 468753
+    }
+  ],
+  "MINING": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "511422",
+      "level": "72",
+      "xp": "970043",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "882931",
+      "level": "66",
+      "xp": "505790",
+      "xpBehind": 464253
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1467879",
+      "level": "53",
+      "xp": "145899",
+      "xpBehind": 824144
+    },
+    {
+      "player": "d5-wally",
+      "rank": "1725007",
+      "level": "50",
+      "xp": "102879",
+      "xpBehind": 867164
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "-1",
+      "level": "41",
+      "xp": "43271",
+      "xpBehind": 926772
+    }
+  ],
+  "HERBLORE": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "607498",
+      "level": "64",
+      "xp": "443026",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "887260",
+      "level": "54",
+      "xp": "159528",
+      "xpBehind": 283498
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1067427",
+      "level": "47",
+      "xp": "77630",
+      "xpBehind": 365396
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1364674",
+      "level": "35",
+      "xp": "24741",
+      "xpBehind": 418285
+    },
+    {
+      "player": "d5-wally",
+      "rank": "1629797",
+      "level": "24",
+      "xp": "7624",
+      "xpBehind": 435402
+    }
+  ],
+  "AGILITY": [
+    {
+      "player": "d5-xandielm",
+      "rank": "468712",
+      "level": "72",
+      "xp": "934634",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-drbrisket",
+      "rank": "469389",
+      "level": "72",
+      "xp": "933525",
+      "xpBehind": 1109
+    },
+    {
+      "player": "d5-wally",
+      "rank": "703539",
+      "level": "70",
+      "xp": "742275",
+      "xpBehind": 192359
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "795862",
+      "level": "67",
+      "xp": "583461",
+      "xpBehind": 351173
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "918387",
+      "level": "64",
+      "xp": "409392",
+      "xpBehind": 525242
+    }
+  ],
+  "THIEVING": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "362211",
+      "level": "74",
+      "xp": "1112830",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "808047",
+      "level": "56",
+      "xp": "194278",
+      "xpBehind": 918552
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "918821",
+      "level": "54",
+      "xp": "160096",
+      "xpBehind": 952734
+    },
+    {
+      "player": "d5-wally",
+      "rank": "923014",
+      "level": "54",
+      "xp": "158689",
+      "xpBehind": 954141
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1106002",
+      "level": "53",
+      "xp": "138409",
+      "xpBehind": 974421
+    }
+  ],
+  "SLAYER": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "868893",
+      "level": "67",
+      "xp": "579093",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "1115046",
+      "level": "58",
+      "xp": "231038",
+      "xpBehind": 348055
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "1256118",
+      "level": "53",
+      "xp": "140729",
+      "xpBehind": 438364
+    },
+    {
+      "player": "d5-wally",
+      "rank": "1975859",
+      "level": "25",
+      "xp": "8009",
+      "xpBehind": 571084
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "-1",
+      "level": "18",
+      "xp": "3606",
+      "xpBehind": 575487
+    }
+  ],
+  "FARMING": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "478899",
+      "level": "75",
+      "xp": "1293210",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "751527",
+      "level": "62",
+      "xp": "357072",
+      "xpBehind": 936138
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "814992",
+      "level": "57",
+      "xp": "215781",
+      "xpBehind": 1077429
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "836683",
+      "level": "55",
+      "xp": "183804",
+      "xpBehind": 1109406
+    },
+    {
+      "player": "d5-wally",
+      "rank": "1085334",
+      "level": "40",
+      "xp": "39919",
+      "xpBehind": 1253291
+    }
+  ],
+  "RUNECRAFTING": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "347663",
+      "level": "64",
+      "xp": "433428",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "606348",
+      "level": "53",
+      "xp": "144092",
+      "xpBehind": 289336
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "870335",
+      "level": "41",
+      "xp": "43766",
+      "xpBehind": 389662
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1202759",
+      "level": "30",
+      "xp": "13457",
+      "xpBehind": 419971
+    },
+    {
+      "player": "d5-wally",
+      "rank": "1496290",
+      "level": "20",
+      "xp": "4872",
+      "xpBehind": 428556
+    }
+  ],
+  "HUNTER": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "434817",
+      "level": "71",
+      "xp": "836458",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "641730",
+      "level": "66",
+      "xp": "523509",
+      "xpBehind": 312949
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "825457",
+      "level": "60",
+      "xp": "285443",
+      "xpBehind": 551015
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "914013",
+      "level": "55",
+      "xp": "172209",
+      "xpBehind": 664249
+    },
+    {
+      "player": "d5-wally",
+      "rank": "1990173",
+      "level": "9",
+      "xp": "1000",
+      "xpBehind": 835458
+    }
+  ],
+  "CONSTRUCTION": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "320474",
+      "level": "82",
+      "xp": "2446812",
+      "xpBehind": 0
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "751241",
+      "level": "55",
+      "xp": "167312",
+      "xpBehind": 2279500
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "803781",
+      "level": "52",
+      "xp": "128223",
+      "xpBehind": 2318589
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1172748",
+      "level": "40",
+      "xp": "38312",
+      "xpBehind": 2408500
+    },
+    {
+      "player": "d5-wally",
+      "rank": "1473028",
+      "level": "27",
+      "xp": "10352",
+      "xpBehind": 2436460
+    }
+  ],
+  "CLUE SCROLLS ALL": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "356145",
+      "count": "62"
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "538726",
+      "count": "25"
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "649644",
+      "count": "15"
+    },
+    {
+      "player": "d5-wally",
+      "rank": "967165",
+      "count": "4"
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1147144",
+      "count": "2"
+    }
+  ],
+  "CLUE SCROLLS BEGINNER": [
+    {
+      "player": "d5-zicco",
+      "rank": "210547",
+      "count": "9"
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "714296",
+      "count": "2"
+    },
+    {
+      "player": "d5-wally",
+      "rank": "718079",
+      "count": "2"
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1116292",
+      "count": "1"
+    }
+  ],
+  "CLUE SCROLLS EASY": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "267713",
+      "count": "13"
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "367822",
+      "count": "9"
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "775995",
+      "count": "3"
+    },
+    {
+      "player": "d5-wally",
+      "rank": "951243",
+      "count": "2"
+    },
+    {
+      "player": "d5-flaccid",
+      "rank": "1295558",
+      "count": "1"
+    }
+  ],
+  "CLUE SCROLLS MEDIUM": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "374986",
+      "count": "15"
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "599825",
+      "count": "6"
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "905358",
+      "count": "2"
+    }
+  ],
+  "CLUE SCROLLS HARD": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "317486",
+      "count": "34"
+    },
+    {
+      "player": "d5-xandielm",
+      "rank": "537248",
+      "count": "8"
+    },
+    {
+      "player": "d5-zicco",
+      "rank": "877300",
+      "count": "1"
+    }
+  ],
+  "SOUL WARS ZEAL": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "10317",
+      "count": "3721"
+    }
+  ],
+  "DAGANNOTH REX": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "106652",
+      "count": "258"
+    }
+  ],
+  "DERANGED ARCHAEOLOGIST": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "30515",
+      "count": "50"
+    }
+  ],
+  "HESPORI": [
+    {
+      "player": "d5-drbrisket",
+      "rank": "262696",
+      "count": "14"
+    }
+  ]
+}
